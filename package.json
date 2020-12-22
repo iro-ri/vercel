@@ -1,0 +1,17 @@
+{
+  "name": "irori-api",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@sendgrid/mail": "^7.4.0",
+    "cors": "^2.8.5",
+    "next": "10.0.1",
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
+  }
+}
